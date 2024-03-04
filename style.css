@@ -1,0 +1,196 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header {
+    width: 1370px;
+    height: 66px;
+    
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 200;
+}
+
+.image {
+    width: 117px;
+    height: 32px;
+    
+}
+
+.first_header {
+    width: 464px;
+    height: 35px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu {
+    width: 305px;
+    height: 17px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    color: black;
+    font-size: 14px;
+    font-family: Gilroy,sans-serif;
+    font-weight: 600;
+}
+
+.courses {
+    color: black;
+    font-size: 14px;
+    font-family: Gilroy,sans-serif;
+    font-weight: 600;
+}
+
+.contacts {
+    color: black;
+    font-size: 14px;
+    font-family: Gilroy,sans-serif;
+    font-weight: 600;
+}
+
+.enter {
+    color: black;
+    font-size: 14px;
+    font-family: Gilroy,sans-serif;
+    font-weight: 600;
+}
+
+button {
+    width: 244px;
+    height: 40px;
+    border-radius: 24px;
+    background-color: #151fe1;
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 24px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    height: 44px;
+    padding: 12px;
+    white-space: nowrap;
+}
+
+.box {
+    width: 180px;
+    height: 235px;
+    border: 1px solid black;
+    margin: 300px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.picture {
+    width: 180px;
+    height: 95px;
+    border: 1px solid black;
+    padding: 7px;
+}
+
+.second {
+    width: 180px;
+    height: 138px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.second_in {
+    width: 152px;
+    height: 108px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.men {
+    width: 125px;
+    height: 15px;
+    color: white;
+    
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.perfect {
+    width: 145px;
+    height: 25px;
+    
+    color: white;
+    font-size: 7px;
+}
+
+.rates {
+    width: 125px;
+    height: 17px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.amount_money{
+    color: white;
+    
+}
+.number_star{
+    color: white;
+    
+}
+.boks_number{
+    color: white;
+    
+}
+
+.money{
+    display: flex;
+}
+
+.star{
+    display: flex;
+}
+
+.boks{
+    display: flex;
+}
+
+.money1 {
+    width: 15px;
+    height: 15px;
+    
+}
+
+.star1{
+    width: 15px;
+    height: 15px;
+    
+}
+
+.boks1{
+    width: 15px;
+    height: 15px;
+    
+}
+
+.button2 {
+    width: 150px;
+    height: 28px;
+    border-radius: 4px;
+    background-color: white;
+    text-align: center;
+    padding: 4px;
+}
